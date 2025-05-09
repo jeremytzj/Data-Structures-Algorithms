@@ -23,11 +23,11 @@ O foco do curso foi desenvolver habilidades **analíticas**, **críticas** e **a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/jeremytzj/Data-Structures-Algorithms.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd Data-Structures-Algorithms
    ```
 3. Compile o programa desejado (exemplo com `gcc`):
    ```bash
